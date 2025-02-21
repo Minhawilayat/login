@@ -63,10 +63,4 @@ The form is designed to be responsive and adjust accordingly across devices. The
 - A modern web browser (Chrome, Firefox, Safari, Edge) that supports HTML5, CSS3, and JavaScript.
 - Basic knowledge of HTML, CSS, and JavaScript if you wish to modify or extend the form's functionality.
 
-## 📝 License
 
-This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
-
----
-
-Feel free to fork or modify this project to suit your needs. Enjoy coding and creating beautiful forms!
